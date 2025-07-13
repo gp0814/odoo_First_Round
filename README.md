@@ -105,7 +105,7 @@ Watch the live demo of our SkillSwap platform here:
 | Gaurav         | Backend Developer  | [@gp0814](https://github.com/gp0814)       |
 | Nistha         | Frontend Developer | [@Nistha27](https://github.com/Nistha27)   |
 | Shreeya Nayak  | Designer & Tester  | [@Shr-ee-ya](https://github.com/Shr-ee-ya) |
-| Abhinav V      | Backend Developer  | [@abhi001](https://github.com/abhi001)     |
+| Abhinav V      | Backend Developer  | [@Abhinav300304](https://github.com/Abhinav300304) |
 
 ---
 
